@@ -66,6 +66,12 @@
       <br>Python
     </td>        
     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+      </a>
+      <br>Java
+    </td>   
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=express" alt="icon" width="50" height="50" />
       <br>Express.js
     </td>
