@@ -144,19 +144,19 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/solidity-icon.svg" alt="icon" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="50" height="50" />
       <br>Solidity
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="icon" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=rust" alt="icon" width="50" height="50" />
       <br>Rust
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/move-icon.svg" alt="icon" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=move" alt="icon" width="50" height="50" />
       <br>Move
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ink-icon.svg" alt="icon" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=ink" alt="icon" width="50" height="50" />
       <br>Ink!
     </td>
   </tr>
