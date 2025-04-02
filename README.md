@@ -44,15 +44,13 @@
       <br>Figma
     </td>  
   </tr>
-  <tr>
-    
+  <tr>    
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
-    </td>
-    
+    </td>    
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
@@ -66,8 +64,7 @@
       <br>Django
     </td>
   </tr>
-  <tr>
-    
+  <tr>    
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mui" width="65" height="65" alt="PostgreSQL" />
       <br>MUI
