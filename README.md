@@ -14,19 +14,27 @@
         <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" />
       </a>
       <br>Css
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
-      <br>Figma
-    </td>   
+    </td>     
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>    
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
+      <br>Figma
+    </td>  
   </tr>
   <tr>
     <td align="center" width="96">
@@ -43,10 +51,7 @@
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
+    
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
