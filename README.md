@@ -92,40 +92,34 @@
       <br>Springboot
     </td>
      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=graphql" width="50" height="50" alt="MySQL" />
       <br>GraphQL
     </td> 
-  </tr>
-
-
-
-
-
-  
+  </tr>  
   <tr>    
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mui" width="65" height="65" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mui" width="50" height="50" alt="PostgreSQL" />
       <br>MUI
-    </td>   
+    </td>
     <td align="center" width="96">
       <img src="https://reactnative.dev/img/header_logo.svg"
-        width="65" height="65" alt="Git" />
+        width="50" height="50" alt="Git" />
       <br>React_Native
     </td>
     <td align="center" width="96">
       <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg"
-        width="65" height="65" alt="Git" />
+        width="50" height="50" alt="Git" />
       <br>Flutter
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-        width="65" height="65" alt="Git" />
+        width="50" height="50" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
       <br>Github
     </td>
   </tr>
