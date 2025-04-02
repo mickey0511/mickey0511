@@ -6,87 +6,87 @@
 <table align="center">
   <tr>
      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="Vue" />
       <br>Html
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="60" height="60" />
       </a>
       <br>Css
     </td>     
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="60" height="60" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="60" height="60" />
       <br>Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=vue" width="60" height="60" alt="Vue" />
       <br>Vue
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="60" height="60" />
       <br>Figma
     </td>  
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=threejs" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=threejs" alt="icon" width="60" height="60" />
       <br>threejs
     </td>
   </tr>  
   <tr>    
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Nodejs" />
       <br>Nodejs
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="60" height="60" />
       </a>
       <br>Go(Golang)
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
       </a>
       <br>Python
     </td>        
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="60" height="60" />
       <br>Express.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="60" height="60" />
       <br>NestJS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="60" height="60" />
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
       <br>MongoDB
     </td>
   </tr>
