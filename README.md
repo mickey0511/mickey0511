@@ -123,6 +123,10 @@
       <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="PostgreSQL" />
       <br>Vercel
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=netlify" width="50" height="50" alt="PostgreSQL" />
+      <br>Netlify
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
