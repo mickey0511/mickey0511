@@ -5,11 +5,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="Vue" />
       <br>Html
     </td>
@@ -20,21 +16,17 @@
       <br>Css
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
+      <br>Figma
+    </td>   
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
+    </td>    
   </tr>
   <tr>
     <td align="center" width="96">
