@@ -111,6 +111,18 @@
         width="50" height="50" alt="Git" />
       <br>Flutter
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="PostgreSQL" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="PostgreSQL" />
+      <br>Aws
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="PostgreSQL" />
+      <br>Vercel
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
