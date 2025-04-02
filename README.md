@@ -44,12 +44,28 @@
       <br>Figma
     </td>  
   </tr>
+
+
+
+
+
+  
   <tr>    
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
+      <br>Nodejs
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="65" height="65" />
+      </a>
+      <br>Go(Golang)
     </td>    
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
@@ -76,10 +92,6 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
       <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
-      <br>Nodejs
     </td>
     <td align="center" width="96">
       <img src="https://reactnative.dev/img/header_logo.svg"
