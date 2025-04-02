@@ -43,13 +43,11 @@
       <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
       <br>Figma
     </td>  
-  </tr>
-
-
-
-
-
-  
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=threejs" alt="icon" width="65" height="65" />
+      <br>threejs
+    </td>
+  </tr>  
   <tr>    
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
@@ -83,7 +81,21 @@
       <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
       <br>MongoDB
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>
   </tr>
+
+
+
+
+
+  
   <tr>    
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mui" width="65" height="65" alt="PostgreSQL" />
@@ -92,8 +104,7 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="MySQL" />
       <br>GraphQL
-    </td>
-    
+    </td>    
     <td align="center" width="96">
       <img src="https://reactnative.dev/img/header_logo.svg"
         width="65" height="65" alt="Git" />
