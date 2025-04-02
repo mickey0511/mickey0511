@@ -42,25 +42,25 @@
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
-      <br>figma
+      <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
-      <br>Vue
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="Vue" />
+      <br>Html
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
+      <br>Css
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -70,11 +70,15 @@
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
+      <br>R
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
