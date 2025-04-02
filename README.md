@@ -57,27 +57,31 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=go" alt="icon" width="65" height="65" />
       </a>
       <br>Go(Golang)
-    </td>    
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>        
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />
+      <br>NestJS
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
     </td>
   </tr>
   <tr>    
@@ -89,10 +93,7 @@
       <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="MySQL" />
       <br>GraphQL
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>
+    
     <td align="center" width="96">
       <img src="https://reactnative.dev/img/header_logo.svg"
         width="65" height="65" alt="Git" />
