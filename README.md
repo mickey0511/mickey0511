@@ -83,7 +83,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="MongoDB" />
-      <br>Spring Boot
+      <br>Springboot
     </td>
      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="MySQL" />
