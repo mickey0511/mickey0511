@@ -30,21 +30,22 @@
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
-    </td>    
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
+      <br>Vue
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
       <br>Figma
     </td>  
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
-      <br>R
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
-      <br>Vue
-    </td>
+    
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
