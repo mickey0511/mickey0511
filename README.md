@@ -112,6 +112,11 @@
       <br>Flutter
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase"
+        width="50" height="50" alt="Git" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="PostgreSQL" />
       <br>Docker
     </td>
