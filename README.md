@@ -142,6 +142,9 @@
       <br>Github
     </td>
   </tr>
+
+
+  
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="50" height="50" />
@@ -157,7 +160,31 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ink" alt="icon" width="50" height="50" />
+      <br>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ink" alt="icon" width="50" height="50" />
       <br>Ink!
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ink" alt="icon" width="50" height="50" />
+      <br>Hardhat
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ink" alt="icon" width="50" height="50" />
+      <br>Web3.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ink" alt="icon" width="50" height="50" />
+      <br>Anchor
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ink" alt="icon" width="50" height="50" />
+      <br>Solana
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ink" alt="icon" width="50" height="50" />
+      <br>Sui
     </td>
   </tr>
 </table>
