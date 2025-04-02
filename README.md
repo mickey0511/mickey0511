@@ -57,7 +57,7 @@
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=go" alt="icon" width="50" height="50" />
       </a>
-      <br>Go(Golang)
+      <br>Golang
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -89,7 +89,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="MongoDB" />
-      <br>Springboot
+      <br>Spring
     </td>
      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=graphql" width="50" height="50" alt="MySQL" />
@@ -104,7 +104,7 @@
     <td align="center" width="96">
       <img src="https://reactnative.dev/img/header_logo.svg"
         width="50" height="50" alt="Git" />
-      <br>React_Native
+      <br>Reactnative
     </td>
     <td align="center" width="96">
       <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg"
