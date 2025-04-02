@@ -16,8 +16,8 @@
       <br>Css
     </td>     
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
-      <br>Java
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
+      <br>Tailwind
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="65" height="65" />
@@ -67,10 +67,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
-      <br>Tailwind
-    </td>
+    
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mui" width="65" height="65" alt="PostgreSQL" />
       <br>MUI
